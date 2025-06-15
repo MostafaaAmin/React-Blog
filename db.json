@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "mostafaa@gmail.com",
+      "password": "$2a$10$mKGi/DsjGT3.HbIZOTdGG.26CdNKpEmDsr9YU0sPPRhxTX4JhuoUK",
+      "name": "Mostafa",
+      "id": 1
+    },
+    {
+      "email": "mohamed@gmail.com",
+      "password": "$2a$10$YOsol6kt31Ru4mMETeLSqe7ZN.86ue2gZgupKbJ.xTF6u5Qmj9qFy",
+      "name": "mohamed",
+      "id": 2
+    },
+    {
+      "email": "Ahmed@gmail.com",
+      "password": "$2a$10$2ju9zTQ50Cg5gH.dmjFmKOjUMv6u.ewLElplgnbg8I3DfmOikAP8K",
+      "name": "Ahmed",
+      "id": 3
+    },
+    {
+      "email": "medo@gmail.com",
+      "password": "$2a$10$k6OkGAvMUY0UF5.MXCjHj.K1w9Gv6Va68qxD5Ba4feMl/urnquUIK",
+      "name": "medo",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "title": "blog image",
+      "description": "Webinar: Annual Giving - Using Existing Data to Segment Messaging & Improve Results",
+      "imageUrl": "https://i.ibb.co/kV5kCF56/3.jpg",
+      "category": "blog",
+      "userId": 3,
+      "author": "Ahmed",
+      "date": "6/14/2025",
+      "id": 2
+    },
+    {
+      "title": "Frost night",
+      "description": "The image depicts a river flowing through a forest at night, with a vibrant, star-filled sky above",
+      "imageUrl": "https://i.ibb.co/Fb55dzRZ/7.jpg",
+      "category": "design ",
+      "userId": 3,
+      "author": "Ahmed",
+      "date": "6/14/2025",
+      "id": 3
+    },
+    {
+      "title": "Aurora Borealis",
+      "description": "The image shows the Aurora Borealis, also known as the Northern Lights, a natural light display in the night sky, typically seen in high-latitude regions",
+      "imageUrl": "https://i.ibb.co/60HnvFcS/1.jpg",
+      "category": "sky",
+      "userId": 2,
+      "author": "mohamed",
+      "date": "6/14/2025",
+      "id": 4
+    },
+    {
+      "title": "Blog Post",
+      "description": "In this blog post, we will explore the significance of blogging for healthcare practices, how it contributes to building authority in the profession, and the impact it has on attracting and engaging potential patients. We will also discuss how Ai Healthcare can assist in leveraging the power of blogging to drive leads and enhance your practice’s online presence effectively Marketing .",
+      "imageUrl": "https://i.ibb.co/zTqBkPWk/4.webp",
+      "category": "blog",
+      "userId": 2,
+      "author": "mohamed",
+      "date": "6/15/2025",
+      "id": 5
+    },
+    {
+      "title": "La Mauricie National Park",
+      "description": "The image shows a tranquil scene of Lac Modène in La Mauricie National Park, Quebec, Canada.It features a wooden dock extending into the calm, reflective waters, surrounded by a dense forest and a clear blue sky with scattered clouds. ",
+      "imageUrl": "https://i.ibb.co/fd8v0nDQ/6.jpg",
+      "category": "Place ",
+      "userId": 1,
+      "author": "Mostafa",
+      "date": "6/14/2025",
+      "id": 6
+    },
+    {
+      "title": "Strawberry Candy",
+      "description": "The image you sent seems to be associated with \"Strawberry Candy Lullaby For Mind\". This could refer to a type of calming or relaxing music or visual art designed to help with sleep or meditation",
+      "imageUrl": "https://i.ibb.co/mrr7HkhT/3.jpg",
+      "category": "meditation",
+      "userId": 1,
+      "author": "Mostafa",
+      "date": "6/14/2025",
+      "id": 7
+    }
+  ]
+}
